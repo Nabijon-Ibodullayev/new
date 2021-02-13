@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: auto;
+    border-radius: 6px;
+}
+ img{
+    border-radius: 8px;
+    padding: 4px;
+    border: dashed 6px #dddddd;
+}
+.leo{
+    max-width: 100%;
+    height: auto;
+
+}
